@@ -75,7 +75,7 @@ $(() => {
 			func = 'mtk';
 			val = button;
 		}
-		$('#tombol').append(`<button data-func='${func}' data-val='${val}'>${button}</button>`);
+		$('#tombol').append(`<button data-func='${func}' data-val='${val}'>${button}</button>\n`);
 		count++;
 		if(count == 4) {
 			$('#tombol').append('<br>');
