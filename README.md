@@ -1,6 +1,6 @@
 # simple-kalkulator
 Simple Kalkulator JavaScript
 
-<https://r3duc3.github.io/simple-kalkulator/>
+<https://angrypin.github.io/simple-kalkulator/>
 
 klik header untuk ganti tema
